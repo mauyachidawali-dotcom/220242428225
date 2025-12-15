@@ -9,8 +9,8 @@
 | Coursework         |Score (100%)|
 |--------------------|------------|
 | Class Participation|            |
-| Assignment 0       |     0      |
-| Assignment 1       |       86.4 |
+| Assignment 0       |            |
+| Assignment 1       |            |
 | Assignment 2       |            |
 | Assignment 3       |            |
 | Test I             |            |

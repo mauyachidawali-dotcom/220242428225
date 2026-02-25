@@ -8,17 +8,17 @@
 
 
 
-| Coursework         |  Weight | Score (%) | Weighted Score |
-|--------------------|---------|-----------|----------------|
-| Class Participation|  10%    |           |                |
-| Assignment 0       |   4%    |       0.0 |                |
-| Assignment 1       |   6%    |      86.4 |                |
-| Quiz 1             |   4%    |           |                |
-| Assignment 2       |  10%    |      61.0 |                |
-| Quiz 2             |   6%    |           |                |
-| Test I             |   6%    |      44.0 |                |
-| Assignment 3       |  13%    |           |                |
-| Assignment 4       |  14%    |           |                |
-| Test II            |  12%    |           |                |
-| Assignment 5       |  15%    |           |                |
-| **Total**          | **100%**|  **28.42**|   **17.05/60** |
+| Coursework         |  Weight | Score (%) | Weighted Score |                   Remarks                    |
+|--------------------|---------|-----------|----------------|----------------------------------------------|
+| Class Participation|  10%    |           |                |                                              |
+| Assignment 0       |   4%    |       0.0 |                |                                              |
+| Assignment 1       |   6%    |      86.4 |                |                                              |
+| Quiz 1             |   4%    |           |                |                                              |
+| Assignment 2       |  10%    |      61.0 |                |                                              |
+| Quiz 2             |   4%    |           |                |                                              |
+| Test I             |  15%    |      44.0 |                |                                              |
+| Assignment 3       |  13%    |           |                |                                              |
+| Assignment 4       |  13%    |      88.6 |                | High Similarities                            |
+| Test II            |  15%    |           |                |                                              |
+| Assignment 5       |   6%    |           |                |                                              |
+| **Total**          | **100%**|  **42.61**|   **25.57/60** |                                              |
